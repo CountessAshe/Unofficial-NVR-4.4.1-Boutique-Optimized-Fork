@@ -3,7 +3,7 @@
 The official New Vegas Reloaded 4.4.1, made faster, with the same look
 
 This branch is the official NVR 4.4.1 source (pr0bability/TESReloaded10 at `86ce118a`, the 4.4.1 release) with the
-performance work of [NVR UNOFFICIAL Optimized](https://github.com/adeesababa/NVR-Unofficial-Optimized) ported onto it.
+performance work of [NVR UNOFFICIAL Optimized] now fully separated and known as "Vegas shaders" https://github.com/adeesababa/VegasShaders/releases/tag/v1.0.1 ) ported onto it.
 It is for people who want to stay on 4.4.1 - its effects, its fog, its menu, its settings - and only want more FPS.
 
 -  Same look as 4.4.1, at full resolution, with no new shader features and no frame-skipping. Every change was
