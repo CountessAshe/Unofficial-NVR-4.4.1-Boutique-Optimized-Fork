@@ -1,6 +1,8 @@
 # New Vegas Reloaded 4.4.1 - UNOFFICIAL Boutique (side build)
 
-The official New Vegas Reloaded 4.4.1, made faster, with the same look
+The official New Vegas Reloaded 4.4.1, made faster, with the same look 
+
+Co owned by Me (Countess Ashe) and Winston (adeesababa)
 
 This branch is the official NVR 4.4.1 source (pr0bability/TESReloaded10 at `86ce118a`, the 4.4.1 release) with the
 performance work of [NVR UNOFFICIAL Optimized] now fully separated and known as "Vegas shaders" https://github.com/adeesababa/VegasShaders/releases/tag/v1.0.1 ) ported onto it.
